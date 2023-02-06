@@ -23,7 +23,7 @@ export default function App() {
       <Header/>
       <Routes>
           <Route path="/" element={ <StartPage /> } />
-      </Routes>
+      </Routes> 
       </BrowserRouter> */}
       </main>
     )
